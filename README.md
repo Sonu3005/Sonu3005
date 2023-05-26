@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sonu3005
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning nodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mihirsejode30@gmail.com
 
